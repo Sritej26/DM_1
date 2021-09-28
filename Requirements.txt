@@ -1,0 +1,14 @@
+
+
+Once the code runs & completes its execution Results.csv will be generated.
+
+
+************************************************************
+Required Modules to be installed within Python:
+
+1) Pandas
+2) datetime
+
+************************************************************
+
+Since the pyhton code "main.py" just takes in CGMData.csv & InsulinData.csv as inputs and gives out 'Results.csv' which contains all the metrics, Assignment requiremnets are all satisfied.
